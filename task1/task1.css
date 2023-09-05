@@ -1,0 +1,17 @@
+table,
+th,
+td {
+    border: 3px solid white;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 5px;
+    text-align: left;
+}
+
+table.names {
+    width: 100%;
+    background-color: #95d3d1;
+}
